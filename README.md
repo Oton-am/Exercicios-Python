@@ -1,7 +1,9 @@
 <h1 align="center"> Exercícios Resolvidos Python <h1>
 
-![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow) 
-![Status](https://img.shields.io/badge/Python-3.11.1-blue)
+<p align="center">
+    <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow"/> 
+    <img src="https://img.shields.io/badge/Python-3.11.1-blue"/> 
+</p>
 
 ## Descrição do projeto
 Neste repositório, em desenvolvimento, serão armazenados arquivos do tipo .ipynb com a resolução dos exercícios disponibilizados no site: 
