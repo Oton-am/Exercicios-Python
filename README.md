@@ -5,6 +5,10 @@
     <img src="https://img.shields.io/badge/Python-3.11.1-blue"/> 
 </p>
 
+<p align="center">
+    <img src="img/gifInicio.gif"  width=310 height=> 
+</p>
+
 ## Descrição do projeto
 Neste repositório, em desenvolvimento, serão armazenados arquivos do tipo .ipynb com a resolução dos exercícios disponibilizados no site: 
 "https://wiki.python.org.br/ListaDeExercicios".
